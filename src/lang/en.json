@@ -1,0 +1,16 @@
+{
+  "login": "Login",
+  "login_success": "Logged In Successfully!",
+  "email": "Email",
+  "password": "Password",
+  "email_required": "Email is required",
+  "password_required": "Password is required",
+  "invalid_email": "Please enter a valid email address.",
+  "username": "Username",
+  "role": "Role",
+  "confirmed": "Confirmed",
+  "blocked": "Blocked",
+  "yes": "Yes",
+  "no": "No",
+  "logout": "Logout"
+}
