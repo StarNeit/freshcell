@@ -7,6 +7,8 @@
   "password_required": "Password is required",
   "invalid_email": "Please enter a valid email address.",
   "username": "Username",
+  "firstname": "First Name",
+  "lastname": "Last Name",
   "role": "Role",
   "confirmed": "Confirmed",
   "blocked": "Blocked",

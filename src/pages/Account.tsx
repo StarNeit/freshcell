@@ -15,6 +15,14 @@ const Account = (): ReactElement => {
         <span className="font-semibold">{user?.username}</span>
       </div>
       <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <span>{t('firstname')}</span>
+        <span className="font-semibold">{user?.firstName}</span>
+      </div>
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <span>{t('lastname')}</span>
+        <span className="font-semibold">{user?.lastName}</span>
+      </div>
+      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
         <span>{t('email')}</span>
         <span className="font-semibold">{user?.email}</span>
       </div>

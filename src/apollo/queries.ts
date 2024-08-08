@@ -5,6 +5,8 @@ export const GET_ME = gql`
     user(id: $id) {
       id
       username
+      firstName
+      lastName
       email
       confirmed
       blocked
